@@ -4,6 +4,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
 
 <!-- QUALITY -->
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-00b894?style=flat)
@@ -263,4 +265,5 @@ This project is open source and available under the MIT License.
 ---
 
 **Built with ❤️ using Next.js, Tailwind CSS, and Framer Motion**
+
 
