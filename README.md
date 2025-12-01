@@ -25,6 +25,13 @@
 [![Responsive](https://img.shields.io/badge/Responsive-Mobile%20Ready-blue)]()
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Status](https://img.shields.io/badge/status-Production%20Ready-success)
+
+![Responsive](https://img.shields.io/badge/Responsive-Yes-blue)
+![Mobile Ready](https://img.shields.io/badge/Mobile%20Ready-100%25-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Status](https://img.shields.io/badge/Production-Ready-brightgreen)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-95%2B-brightgreen)
+
 # High-End Professional Portfolio Website
 
 A modern, responsive portfolio website built with Next.js, Tailwind CSS, and Framer Motion. Designed to showcase frontend development projects and skills with a clean, professional aesthetic.
@@ -265,5 +272,6 @@ This project is open source and available under the MIT License.
 ---
 
 **Built with ❤️ using Next.js, Tailwind CSS, and Framer Motion**
+
 
 
